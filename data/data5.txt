@@ -1,0 +1,6 @@
+name,points,sex
+joe,56,NA
+Erdem,,Erdem
+angela,86,n.a
+,94,f
+jack,-6,m
